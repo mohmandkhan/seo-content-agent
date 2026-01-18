@@ -5,6 +5,10 @@
 > This repository contains a **subset of code** extracted from a **live production SaaS application**. The full source code cannot be disclosed due to proprietary business reasons.
 > 
 > **🔗 Live Application URL:** https://contengine.pro
+>
+> **🔐 Demo Credentials:**
+> - Email: `mohmandkhan@gmail.com`
+> - Password: `allah99@@`
 > 
 > The complete system includes additional features such as:
 > - Multi-tenant authentication & authorization
@@ -16,10 +20,6 @@
 > - And much more...
 >
 > This extract demonstrates the core **agent-based content generation system** as requested in the assessment.
->
-> **🔐 Demo Credentials:**
-> - Email: `mohmandkhan@gmail.com`
-> - Password: `allah99@@`
 
 ---
 
