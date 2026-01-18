@@ -16,6 +16,10 @@
 > - And much more...
 >
 > This extract demonstrates the core **agent-based content generation system** as requested in the assessment.
+>
+> **🔐 Demo Credentials:**
+> - Email: `mohmandkhan@gmail.com`
+> - Password: `allah99@@`
 
 ---
 
