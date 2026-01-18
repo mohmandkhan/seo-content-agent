@@ -4,7 +4,7 @@
 > 
 > This repository contains a **subset of code** extracted from a **live production SaaS application**. The full source code cannot be disclosed due to proprietary business reasons.
 > 
-> **🔗 Live Application URL:** https://content-automation-app-production.up.railway.app
+> **🔗 Live Application URL:** https://contengine.pro
 > 
 > The complete system includes additional features such as:
 > - Multi-tenant authentication & authorization
@@ -289,4 +289,4 @@ This is part of a comprehensive **Content Automation SaaS** platform:
 - **Analytics Dashboard**: Performance tracking, SEO metrics
 - **Billing System**: Stripe integration
 
-**🔗 Live Demo:** https://content-automation-app-production.up.railway.app
+**🔗 Live Demo:** https://contengine.pro
